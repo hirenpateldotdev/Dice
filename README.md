@@ -7,6 +7,6 @@ Dice is a simple app that will roll two dice and display the total. Sketch (a ve
 #Usage
 
  To roll the dice and generate a new total you can :
- > Tap the `Roll` button to roll the dice and generate a new total.
+ > Tap the `Roll` button
  
  > Shake the device 
